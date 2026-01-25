@@ -16,3 +16,10 @@ These conditions are expressions that compare two values with the following comp
 ### Objective: 
 (1) Learn how to repeatedly execute blocks of code using loops. Python’s 2 kinds of loops: while and for, open up the full power of automation, because they can run lines of code millions of times per second. 
 (2) Learn how to import code libraries AKA "modules", to make even more functions available to your programs.
+### WHILE Loop Statements
+#### You can make a block of code execute over and over again using a while statement. The code in a while clause will be executed as long as the statement’s condition is True. In code, a while statement always has:
+##### the While keyboard
+##### a condition (an expression that evaluates to true or false)
+##### a colon
+##### starting on the next line, an indented block of code (called the while clause or while block)
+#### A while statement looks similar to an if statement, but the difference is in how they behave. At the end of an if clause, the program execution continues after the if statement. But at the end of a while clause, the program execution jumps back to the start of the while statement. For an example, see while.vs.if.py
