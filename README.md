@@ -32,3 +32,8 @@ These conditions are expressions that compare two values with the following comp
 ##### a colon
 ##### starting on the next line, an indented block of code (called the while clause or while block)
 #### A while statement looks similar to an if statement, but the difference is in how they behave. At the end of an if clause, the program execution continues after the if statement. But at the end of a while clause, the program execution jumps back to the start of the while statement. For an example, see while.vs.if.py
+
+# Learning SQL videos
+
+https://youtu.be/SSKVgrwhzus?si=NM0eF6Ms_khXFODj
+
