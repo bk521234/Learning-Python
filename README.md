@@ -35,5 +35,7 @@ These conditions are expressions that compare two values with the following comp
 
 # Learning SQL videos
 
-https://youtu.be/SSKVgrwhzus?si=NM0eF6Ms_khXFODj
+Youtube -  SQL Full Course for Beginners (30 Hours) – From Zero to Hero - Data with Baraa"
+Link: https://youtu.be/SSKVgrwhzus?si=NM0eF6Ms_khXFODj
+
 
